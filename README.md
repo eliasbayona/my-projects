@@ -14,6 +14,6 @@ Majority of these projects will be presented as a Jupiter Note book
 
 
 2. Navigate nbviewer >>>  https://nbviewer.jupyter.org/
-  - Paste the link on the jupiter note book to have it rendered.
+    - Paste the link on the jupiter note book and click "go" to have it rendered.
   
 ![alt text](readme-images/nbviewer.jpg)
