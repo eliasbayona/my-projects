@@ -11,6 +11,8 @@ Majority of these projects will be presented as a Jupiter Note book
 1. Copy the url/link to the jupiter note book.
 
 ![alt text](readme-images/inside_github_viewer.jpg)
+
+
 2. Navigate nbviewer >>>  https://nbviewer.jupyter.org/
   - Paste the link on the jupiter note book to have it rendered.
   
