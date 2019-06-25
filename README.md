@@ -1,5 +1,5 @@
 # Projects
-This repo hosts a collection of all the practice projects i have worked on.
+This repo hosts a collection of all the practice projects i have worked on from datacamp.com
 
 ### Quick Note
 Majority of these projects will be presented as a Jupiter Note book
